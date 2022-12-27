@@ -1,0 +1,16 @@
+{
+  "name": "ray_casting_clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.6",
+    "p5": "^1.5.0"
+  }
+}
